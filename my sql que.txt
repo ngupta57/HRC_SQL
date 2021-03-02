@@ -1,1 +1,2 @@
 mysql important questions.
+que-2: what is sql?
